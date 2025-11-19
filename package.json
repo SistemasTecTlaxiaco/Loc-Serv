@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@stellar/freighter-api": "^4.1.0",
+    "@stellar/stellar-sdk": "^13.3.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
