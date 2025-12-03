@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@stellar/freighter-api": "^5.0.0"
+  }
+}
